@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🧠 AI-Based Loan Recommendation Agent
 
 A smart, explainable, and extensible loan assessment agent built using **Azure OpenAI**, designed to automate and streamline credit decisioning for **corporates and businesses**.
